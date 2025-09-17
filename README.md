@@ -4,7 +4,7 @@
 The main goal of my project is to build a deep learning model that can classify images of different architectural elements, for example arches, columns, and domes. I will use Convolutional Neural Networks (CNNs) and Transfer Learning to get a high accuracy score. Another important part of the project is to understand why the model makes a certain prediction. For this, I will use visualization tools like Grad CAM to see which parts of an image are important for the model's decision.
 
 ## 2. Dataset
-For this project, I am using the "Architectural Heritage Elements" dataset which is available on Kaggle. The dataset has about 15,000 images in 10 different classes. You can find the dataset at this link: https://www.kaggle.com/datasets/xhlulu/archi-heritage-elements
+For this project, I am using the "Architectural Heritage Elements" dataset which is available on Kaggle. The dataset has about 15,000 images in 10 different classes. You can find the dataset at this link: https://www.kaggle.com/datasets/ikobzev/architectural-heritage-elements-image64-dataset
 
 ## 3. Methodology
 The steps I will follow in this project are:
