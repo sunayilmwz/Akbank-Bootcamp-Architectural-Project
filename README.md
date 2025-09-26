@@ -1,17 +1,19 @@
-#Akbank Deep Learning Bootcamp: Architectural Heritage Classification
+# Akbank Deep Learning Bootcamp: Architectural Heritage Classification
 This project, developed for the Akbank Deep Learning Bootcamp, builds a robust deep learning model to classify images of ten different architectural heritage elements. The model successfully distinguishes between features like domes, columns, and gargoyles with high accuracy.
 
-#Final Kaggle Notebook: (https://www.kaggle.com/datasets/ikobzev/architectural-heritage-elements-image64-dataset)
+Final Kaggle Notebook: (https://www.kaggle.com/datasets/ikobzev/architectural-heritage-elements-image64-dataset)
 
-#1. Project Goal
+
+# 1. Project Goal
 The main goal of this project was to build an accurate and interpretable deep learning model for image classification. The project involved using Convolutional Neural Networks (CNNs), leveraging Transfer Learning with the VGG16 architecture, and fine tuning the model for optimal performance. A key part of the project was also model interpretability, using tools like Grad CAM to understand and visualize the model's decision making process.
 
-#2. Dataset
+
+# 2. Dataset
 This project uses the "Architectural Heritage Elements" dataset from Kaggle. It contains approximately 10,000 training images spread across 10 distinct classes.
+Dataset Link: [Architectural Heritage Elements on Kaggle](https://www.kaggle.com/datasets/ikobzev/architectural-heritage-elements-image64-dataset)
 
-Dataset Link: Architectural Heritage Elements on Kaggle
 
-#3. Methodology
+# 3. Methodology
 The project followed a systematic approach, progressing from a simple baseline to a highly optimized model.
 
 Data Preprocessing and Augmentation: The image data was prepared for training by resizing and normalizing the pixels. For the VGG16 model, a specific preprocessing function was used. Data augmentation techniques (rotation, zoom, horizontal flip) were applied to the training set to prevent overfitting and improve generalization.
@@ -26,7 +28,8 @@ Model Evaluation: All models were evaluated using accuracy, a confusion matrix, 
 
 Model Interpretation: Grad CAM was used to visualize the model's attention, confirming that it focused on relevant features within the images to make its predictions.
 
-#4. Results
+
+# 4. Results
 The project successfully demonstrated the power of transfer learning and fine tuning, with each step yielding significant improvements in accuracy. The final model achieved an excellent accuracy of 94.97% on the unseen test set.
 
 Performance Progression:
@@ -42,12 +45,13 @@ The final model showed outstanding performance, particularly for classes like st
 Final Confusion Matrix
 Grad CAM Visualization
 
-#5. Technologies Used
->TensorFlow & Keras
->Scikit learn
->Pandas & NumPy
->Matplotlib & Seaborn
->Kaggle Notebooks
+
+# 5. Technologies Used
+> TensorFlow & Keras
+> Scikit learn
+> Pandas & NumPy
+> Matplotlib & Seaborn
+> Kaggle Notebooks
 
 
 
