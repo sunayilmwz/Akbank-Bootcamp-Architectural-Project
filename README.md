@@ -1,15 +1,13 @@
 # Akbank Deep Learning Bootcamp: Architectural Heritage Classification
 This project, developed for the Akbank Deep Learning Bootcamp, builds a robust deep learning model to classify images of ten different architectural heritage elements. The model successfully distinguishes between features like domes, columns, and gargoyles with high accuracy.
 
-Final Kaggle Notebook: [Notebook]([https://www.kaggle.com/datasets/ikobzev/architectural-heritage-elements-image64-dataset](https://www.kaggle.com/code/eminesunaylmaz/akbk-bootcamp-architectural-heritage-project))
 
 
-## Proje Notebook'u
-Projeye ait tüm kod ve analizleri içeren dosyaya aşağıdaki linklerden erişebilirsiniz:
+## Project Notebook
+All the code and analysis for this project are contained in the Jupyter Notebook. You can access it through the following links:
 
-* **[GitHub üzerinde görüntüle](./akbk-bootcamp-architectural-heritage-project.ipynb)**
-* **[Kaggle üzerinde interaktif olarak çalıştır](https://www.kaggle.com/code/eminesunaylmaz/akbk-bootcamp-architectural-heritage-project)**
-
+* **[View on GitHub](./akbk-bootcamp-architectural-heritage-project.ipynb)**
+* **[Run interactively on Kaggle](https://www.kaggle.com/code/eminesunaylmaz/akbk-bootcamp-architectural-heritage-project)**
 
 
 # 1. Project Goal
