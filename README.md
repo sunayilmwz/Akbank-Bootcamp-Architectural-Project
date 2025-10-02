@@ -4,6 +4,14 @@ This project, developed for the Akbank Deep Learning Bootcamp, builds a robust d
 Final Kaggle Notebook: [Notebook]([https://www.kaggle.com/datasets/ikobzev/architectural-heritage-elements-image64-dataset](https://www.kaggle.com/code/eminesunaylmaz/akbk-bootcamp-architectural-heritage-project))
 
 
+## Proje Notebook'u
+Projeye ait tüm kod ve analizleri içeren dosyaya aşağıdaki linklerden erişebilirsiniz:
+
+* **[GitHub üzerinde görüntüle](./akbk-bootcamp-architectural-heritage-project.ipynb)**
+* **[Kaggle üzerinde interaktif olarak çalıştır](https://www.kaggle.com/code/eminesunaylmaz/akbk-bootcamp-architectural-heritage-project)**
+
+
+
 # 1. Project Goal
 The main goal of this project was to build an accurate and interpretable deep learning model for image classification. The project involved using Convolutional Neural Networks (CNNs), leveraging Transfer Learning with the VGG16 architecture, and fine tuning the model for optimal performance. A key part of the project was also model interpretability, using tools like Grad CAM to understand and visualize the model's decision making process.
 
