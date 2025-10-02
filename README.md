@@ -65,9 +65,12 @@ Grad CAM Visualization
 Here are some screenshots of the model's outputs and performance metrics.
 
 **1. Confusion Matrix**
+
 ![Confusion Matrix](./confusion-matrix.png)
 
+
 **2. Training & Validation Loss/Accuracy**
+
 ![Model Training History](./model-history.png)
 
 
